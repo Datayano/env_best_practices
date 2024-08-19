@@ -1,0 +1,19 @@
+{
+  "name": "env_best_practices",
+  "version": "1.0.0",
+  "description": "Best practices showcase about how to handle environment variables, in peculiar secret ones !",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Datayano"
+  },
+  "author": "Datayano",
+  "license": "MIT",
+  "type":"module",
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
